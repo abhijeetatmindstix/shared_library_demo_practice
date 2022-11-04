@@ -1,3 +1,3 @@
 // Jenkinsfile
-@Library('first-shared-lib') _
+@Library('second_shared_lib') _
 welcomeJob ‘lambdatest’
